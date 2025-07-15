@@ -1,6 +1,5 @@
 # config.py
-TELEGRAM_TOKEN = "7563120304:AAE7pxBkIow5acxBeOm6ZEF8InNp6yWnelQ"
-TELEGRAM_CHAT_ID = "1206478005"
+
 CPU_THRESHOLD = 2.0
 RAM_THRESHOLD = 2.0
 LOG_FILE = "/home/ivan/resource_monitor.log"
