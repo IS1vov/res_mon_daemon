@@ -1,0 +1,7 @@
+Package: resource-monitor
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Maintainer: Ivan gamsss525@gmail.com
+Description: Simple Python daemon to monitor CPU and RAM usage and send Telegram alerts.

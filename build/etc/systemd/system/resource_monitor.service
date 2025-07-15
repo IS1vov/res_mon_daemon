@@ -1,0 +1,12 @@
+[Unit]
+Description=Resource Monitoring Daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /usr/bin/resource-monitor
+Restart=always
+User=ivan
+Group=ivan
+
+[Install]
+WantedBy=multi-user.target
